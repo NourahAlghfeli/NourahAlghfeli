@@ -42,15 +42,6 @@ Here are some of the key technologies and skills I've been working with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NourahAlghfeli&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourahAlghfeli&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
 ## Projects
 
 See my repositories for details about my coursework and projects. Some are team or coursework projects; each repository should explain the project and my contribution.
